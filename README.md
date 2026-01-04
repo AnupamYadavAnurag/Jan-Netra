@@ -5,7 +5,8 @@ Jan-Netra (Delhi) is an AI-driven platform designed to detect fraud, irregularit
 
 The platform focuses on **early detection, transparency, explainability, and citizen trust** 🏛️.
 
----
+---<img width="1857" height="1000" alt="Overview" src="https://github.com/user-attachments/assets/7fa7bdbe-24f4-4237-a44a-e0d7d1043e5c" />
+
 
 ## 🧩 Problem Statement
 
